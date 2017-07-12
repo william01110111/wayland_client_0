@@ -1,1 +1,1 @@
-Program(target = 'bin/main', source = Split('main.cpp'), LIBS = Split('wayland-client'))
+Program(target = 'bin/main', source = Split('main.c'), LIBS = Split('wayland-client'))

@@ -1,0 +1,1 @@
+Program(target = 'bin/main', source = Split('main.cpp'), LIBS = Split('wayland-client'))
